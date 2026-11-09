@@ -3,13 +3,13 @@
 > **Undergraduate EEE Degree — Power Electronics Laboratory Project**  
 > *Demonstrating static power conversion, variable frequency drive (VFD) principles, and microcomputer-controlled gate driving using IGBTs and Arduino.*
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-3--phase--vfd-181717?style=flat&logo=github)](https://github.com/apu-eee-sec/3-phase-vfd)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-three--phase--inverter-181717?style=flat&logo=github)](https://github.com/rashedulalbab253/three-phase-inverter)
 [![Platform](https://img.shields.io/badge/Platform-Arduino%20Nano%20(ATmega328P)-00979D?style=flat&logo=arduino)](https://www.arduino.cc/)
 [![Simulation](https://img.shields.io/badge/Simulation-SimulIDE-orange?style=flat)](https://www.simulide.com/)
 [![Topology](https://img.shields.io/badge/Topology-3--Phase%20Full%20Bridge%20Inverter-blue)](#power-conversion-process)
 [![Switching](https://img.shields.io/badge/Switching-Modified%20Square%20Wave%20%7C%20Dead--Time%20150%C2%B5s-green)](#key-technical-features)
 
-[View Complete Source Code on GitHub](https://github.com/apu-eee-sec/3-phase-vfd)
+[View Complete Source Code on GitHub](https://github.com/rashedulalbab253/three-phase-inverter)
 
 ---
 
@@ -316,7 +316,7 @@ three-phase-inverter/
 
 The complete source code, hardware diagrams, and simulation files are accessible on GitHub:
 
-🔗 **[View Complete Source Code on GitHub](https://github.com/apu-eee-sec/3-phase-vfd)**
+🔗 **[View Complete Source Code on GitHub](https://github.com/rashedulalbab253/three-phase-inverter)**
 
 ---
 
